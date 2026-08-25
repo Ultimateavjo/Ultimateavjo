@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph!</h1>
+<h1>Hi, I'm Joseph Goodridge.</h1>
 
 <h2> Information Technology Projects:</h2>
 
