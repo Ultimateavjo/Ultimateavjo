@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Joseph!</h1>
 
-<!--
-**Ultimateavjo/Ultimateavjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b> Recreation of Active Directory Lab </b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b> Recreation of Ticketing System </b>
+
+- <b> Mobile Device Management </b>
+
+- <b> Recreation of Entra ID </b>
+
+<h2> Certifications </h2>
+
+[Comptia A+](https://www.credly.com/badges/6341f573-52d1-4282-973c-d4ef8f8d030d/public_url)
