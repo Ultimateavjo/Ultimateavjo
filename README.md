@@ -2,13 +2,9 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b> Recreation of Active Directory Lab </b>
-
 - <b> [Recreation of Ticketing System](https://github.com/Ultimateavjo/SpiceWorks-Ticketing-system/tree/main)</b>
 
 - <b> [Mobile Device Management](https://github.com/Ultimateavjo/Miradore-MDM/tree/main) </b>
-
-- <b> Recreation of Entra ID </b>
 
 <h2> Certifications </h2>
 
